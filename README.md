@@ -13,7 +13,7 @@
 <p style="font-family: 'Playfair Display', serif; font-size: 1.1rem; margin-top: 20px;">
   🔗 <strong>Check it out from here:</strong>
   
-  <a href="https://dishantbhere.github.io/Swaad-Resturant-/" target="_blank" style="color: #e67300; text-decoration: none;">
+  <a href="https://dishantbhere.github.io/Swaad-Resturant/" target="_blank" style="color: #e67300; text-decoration: none;">
     Swaad Restaurant 
   </a>
 </p>
